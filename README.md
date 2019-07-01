@@ -1,9 +1,7 @@
 # xylophone
 
 This is an instrument app named xylophone. it will make different sounds when you will press different colors
-![xyloin](https://user-images.githubusercontent.com/43213197/60037158-74e36600-96ce-11e9-83b8-87138c8333c2.png)
-
-
+<img src = "https://user-images.githubusercontent.com/43213197/60037158-74e36600-96ce-11e9-83b8-87138c8333c2.png" width = "40%">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
